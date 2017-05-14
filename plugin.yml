@@ -1,0 +1,6 @@
+name: PluginName
+description: Plugin description...
+author: Your name
+version: 1.0
+api: [3.0.0, 3.0.0-ALPHA5]
+main: <folder after source>\<main class>
